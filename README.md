@@ -1,3 +1,4 @@
-# whirlatron.github.io
+# A Left-Aligned Website
 
-The website of Whirlatron. A work in progress.
+No one builds websites like this anymore, so I thought I'd make one.
+If you want modern, go somewhere else.
